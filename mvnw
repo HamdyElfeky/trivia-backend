@@ -275,7 +275,7 @@ else
   fi
 fi
 ##########################################################################################
-# End of extension
+# End of extension fffggf
 ##########################################################################################
 
 # If specified, validate the SHA-256 sum of the Maven wrapper jar file
